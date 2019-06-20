@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/springcloud/product-data-service/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud/product-view-service-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud/product-view-service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/zuul/pom.xml" />
       </list>
     </option>
   </component>
